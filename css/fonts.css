@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'ProximaNovaA-Bold';
+    src: url('fonts/31DBBE_0_0.eot');
+    src: url('fonts/31DBBE_0_0.eot?#iefix') format('embedded-opentype'),
+    url('fonts/31DBBE_0_0.woff2') format('woff2'),
+    url('fonts/31DBBE_0_0.woff') format('woff'),
+    url('fonts/31DBBE_0_0.ttf') format('truetype');
+}
+ 
+  
+@font-face {
+    font-family: 'ProximaNovaS-Bold';
+    src: url('fonts/31DBBE_1_0.eot');
+    src: url('fonts/31DBBE_1_0.eot?#iefix') format('embedded-opentype'),
+    url('fonts/31DBBE_1_0.woff2') format('woff2'),
+    url('fonts/31DBBE_1_0.woff') format('woff'),
+    url('fonts/31DBBE_1_0.ttf') format('truetype');
+}
+ 
+  
+@font-face {
+    font-family: 'ProximaNova-Bold';src: url('fonts/31DBBE_2_0.eot');src: url('fonts/31DBBE_2_0.eot?#iefix') format('embedded-opentype'),url('fonts/31DBBE_2_0.woff2') format('woff2'),url('fonts/31DBBE_2_0.woff') format('woff'),url('fonts/31DBBE_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ProximaNovaA-Medium';src: url('fonts/31DBBE_3_0.eot');src: url('fonts/31DBBE_3_0.eot?#iefix') format('embedded-opentype'),url('fonts/31DBBE_3_0.woff2') format('woff2'),url('fonts/31DBBE_3_0.woff') format('woff'),url('fonts/31DBBE_3_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ProximaNovaS-Medium';src: url('fonts/31DBBE_4_0.eot');src: url('fonts/31DBBE_4_0.eot?#iefix') format('embedded-opentype'),url('fonts/31DBBE_4_0.woff2') format('woff2'),url('fonts/31DBBE_4_0.woff') format('woff'),url('fonts/31DBBE_4_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ProximaNova-Medium';src: url('fonts/31DBBE_5_0.eot');src: url('fonts/31DBBE_5_0.eot?#iefix') format('embedded-opentype'),url('fonts/31DBBE_5_0.woff2') format('woff2'),url('fonts/31DBBE_5_0.woff') format('woff'),url('fonts/31DBBE_5_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ProximaNovaA-Semibold';src: url('fonts/31DBBE_6_0.eot');src: url('fonts/31DBBE_6_0.eot?#iefix') format('embedded-opentype'),url('fonts/31DBBE_6_0.woff2') format('woff2'),url('fonts/31DBBE_6_0.woff') format('woff'),url('fonts/31DBBE_6_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ProximaNovaS-Semibold';src: url('fonts/31DBBE_7_0.eot');src: url('fonts/31DBBE_7_0.eot?#iefix') format('embedded-opentype'),url('fonts/31DBBE_7_0.woff2') format('woff2'),url('fonts/31DBBE_7_0.woff') format('woff'),url('fonts/31DBBE_7_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ProximaNova-Semibold';src: url('fonts/31DBBE_8_0.eot');src: url('fonts/31DBBE_8_0.eot?#iefix') format('embedded-opentype'),url('fonts/31DBBE_8_0.woff2') format('woff2'),url('fonts/31DBBE_8_0.woff') format('woff'),url('fonts/31DBBE_8_0.ttf') format('truetype');}
